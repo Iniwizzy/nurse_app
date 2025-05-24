@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "350911462545",
+    "firebase_url": "https://nurse25-1075b-default-rtdb.firebaseio.com",
+    "project_id": "nurse25-1075b",
+    "storage_bucket": "nurse25-1075b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350911462545:android:d9492334d9277eb4bd9330",
+        "android_client_info": {
+          "package_name": "com.example.hospital_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA083kv9UiDuidmpgT6sl3A5pRftIT91AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350911462545:android:7e02f9d14befeb75bd9330",
+        "android_client_info": {
+          "package_name": "com.example.nurse_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA083kv9UiDuidmpgT6sl3A5pRftIT91AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
